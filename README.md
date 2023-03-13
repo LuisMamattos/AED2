@@ -1,3 +1,5 @@
  - grafo -> 'representei cidades como vertices, e estradas como arestas'
  - grafo2 -> 'atualizei para serem estradas bidirecionais, no lugar de estradas de mão única'
  - grafo3 -> 'uma outra maneira, mas agora o usuario não vai digitar uma mesma estrada mais de uma vez'
+ - dijkstra1 -> 'utilizei o grafo2 para implementação'
+ - dijkstra2 -> 'atualizei para que mostre a distancia minima também nos casos onde não há uma estrada ligando os vertices'
