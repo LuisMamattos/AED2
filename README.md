@@ -3,3 +3,4 @@
  - grafo3 -> 'uma outra maneira, mas agora o usuario não vai digitar uma mesma estrada mais de uma vez'
  - dijkstra1 -> 'utilizei o grafo2 para implementação'
  - dijkstra2 -> 'atualizei para que mostre a distancia minima também nos casos onde não há uma estrada ligando os vertices'
+ - kruskal -> 'algoritmo de Kruskal para encontrar a Árvore Geradora Mínima em um grafo ponderado representado por uma lista de arestas'
